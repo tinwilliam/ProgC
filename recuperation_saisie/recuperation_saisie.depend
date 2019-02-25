@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1548866482 source:c:\users\wtin\desktop\bureau\progc\recuperation_saisie\main.c
+	<stdio.h>
+	<stdlib.h>
+

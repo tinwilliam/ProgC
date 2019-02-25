@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1548883493 source:c:\users\wtin\desktop\bureau\progc\conditions\main.c
+	<stdio.h>
+	<stdlib.h>
+
